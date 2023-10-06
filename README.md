@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ye Ji.</h1>
-<h3 align="center">A visiting Ph.D. researcher at Delft University of Technology.</h3>
+<p align="center">
+  <img src="https://github.com/jiyess/jiyess/hello_world.gif" alt="Hi, I'm Ye Ji 👋 I'm a 🚀 researcher & developer. 🚀 I ❤️ football & travelling. ❤️">
+</p>
+
+<!--
+How to make this gif ?
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+ffmpeg helps me to create a dedicated command that convert MOV to GIF.
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyess&label=Profile%20views&color=0e75b6&style=flat" alt="jiyess" /> </p>
 
