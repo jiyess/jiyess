@@ -5,16 +5,12 @@
 <!--
 How to make this gif ?
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-ffmpeg helps me to create a dedicated command that convert MOV to GIF.
+https://codesandbox.io/s/github-profile-2ijk7
 -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyess&label=Profile%20views&color=0e75b6&style=flat" alt="jiyess" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiyess" alt="jiyess" /></a> </p>
 
-- 🔭 I’m currently working on **Isogeometric analysis & Computer-Aided Geometric Design**
+- 🔭 I’m currently working on **IsoGeometric Analysis (IGA) & Computer-Aided Geometric Design (CAGD)**
 
 - 🌱 I’m currently learning **Computer-Aided Geometric Design & Geometry Processing**
 
@@ -22,9 +18,7 @@ ffmpeg helps me to create a dedicated command that convert MOV to GIF.
 
 - 👨‍💻 All of my projects are available at [https://jiyess.github.io](https://jiyess.github.io)
 
-- 📫 How to reach me **y.ji-1@tudelft.nl**
-
-- ⚡ Fun fact **Football & Music**
+- 📫 Email: **y.ji-1@tudelft.nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
