@@ -8,7 +8,10 @@ How to make this gif ?
 https://codesandbox.io/s/github-profile-2ijk7
 -->
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiyess" alt="jiyess" /></a> </p>
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiyess&column=6&theme=onedark&title=MultiLanguage,Commits,Repositories,Experience,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **IsoGeometric Analysis (IGA) & Computer-Aided Geometric Design (CAGD)**
 
