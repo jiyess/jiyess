@@ -38,6 +38,7 @@ https://codesandbox.io/s/github-profile-2ijk7
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jiyess&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiyess&theme=ayu_mirage)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jiyess&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
